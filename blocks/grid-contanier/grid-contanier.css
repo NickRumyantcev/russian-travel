@@ -1,0 +1,28 @@
+.grid-contanier {
+  margin: 0;
+  padding: 0 0 92px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
+  grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
+  gap: 16px;
+}
+
+@media (max-width: 1279px) {
+  .grid-contanier {
+    padding: 0 48px 92px;
+    gap: 14px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .grid-contanier {
+    padding: 0 24px 88px;
+  }
+}
+
+@media (max-width: 767px) {
+  .grid-contanier {
+    gap: 12px;
+    padding: 0 16px 64px;
+  }
+}

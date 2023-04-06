@@ -1,0 +1,5 @@
+.grid-contanier__photo {
+  margin: 0;
+  object-fit: cover;
+  width: 100%;
+}
