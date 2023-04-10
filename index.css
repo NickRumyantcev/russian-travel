@@ -26,18 +26,6 @@
 /*Блок grid-contanier*/
 @import url(./blocks/grid-contanier/grid-contanier.css);
 @import url(./blocks/grid-contanier/__photo/grid-contanier__photo.css);
-@import url(./blocks/grid-contanier/photo_/photo_cloud.css);
-@import url(./blocks/grid-contanier/photo_/photo_fog_forest.css);
-@import url(./blocks/grid-contanier/photo_/photo_fog_mountain.css);
-@import url(./blocks/grid-contanier/photo_/photo_fog_valley.css);
-@import url(./blocks/grid-contanier/photo_/photo_mountains.css);
-@import url(./blocks/grid-contanier/photo_/photo_rock.css);
-@import url(./blocks/grid-contanier/photo_/photo_sand.css);
-@import url(./blocks/grid-contanier/photo_/photo_sea.css);
-@import url(./blocks/grid-contanier/photo_/photo_volcano.css);
-@import url(./blocks/grid-contanier/photo_/photo_wheel.css);
-@import url(./blocks/grid-contanier/photo_/photo_window.css);
-@import url(./blocks/grid-contanier/photo_/photo_wolf.css);
 
 /*Блок places*/
 @import url(./blocks/places/places.css);
