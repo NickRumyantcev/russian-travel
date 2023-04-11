@@ -28,5 +28,6 @@
     flex-direction: column;
     column-gap: 0;
     row-gap: 32px;
+    align-items: center;
   }
 }
